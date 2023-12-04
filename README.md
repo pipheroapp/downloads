@@ -9,10 +9,17 @@
 	<br>
 </div>
 
+## Download
+
+#### Latest
+https://piphero.app/download
+
 #### Releases
 https://github.com/pipheroapp/downloads/releases
 
-#### Install via [Homebrew](https://formulae.brew.sh/cask/piphero)
+#### Install via Homebrew
 ```shell
 brew install --cask piphero
 ```
+
+https://formulae.brew.sh/cask/piphero
