@@ -6,20 +6,18 @@
 	</p>
 	<br>
 	<br>
-	<br>
+  <br>
 </div>
 
-## Download
+### Download
 
-#### Latest
-https://piphero.app/download
+- [Latest](https://piphero.app/download)
+- [Releases](https://github.com/pipheroapp/downloads/releases)
 
-#### Releases
-https://github.com/pipheroapp/downloads/releases
+### Install via Homebrew
 
-#### Install via Homebrew
 ```shell
 brew install --cask piphero
 ```
 
-https://formulae.brew.sh/cask/piphero
+*https://formulae.brew.sh/cask/piphero*
