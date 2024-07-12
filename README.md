@@ -4,11 +4,13 @@
 	<p>
 		<b>Picture-in-picture all the things!</b>
 	</p>
-	<br>
-</div>
+	
+  <img src="https://img.shields.io/github/v/release/pipheroapp/downloads?label=Latest%20Release" alt="GitHub release (latest by date)" />
+  <img src="https://img.shields.io/github/downloads/pipheroapp/downloads/total?label=Total%20Downloads" alt="GitHub downloads (all releases)" />
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/pipheroapp/downloads?label=Latest%20Release)
-![GitHub All Releases](https://img.shields.io/github/downloads/pipheroapp/downloads/total?label=Total%20Downloads)
+  <br>
+  <br>
+</div>
 
 ### Download
 
