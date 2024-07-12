@@ -5,9 +5,10 @@
 		<b>Picture-in-picture all the things!</b>
 	</p>
 	<br>
-	<br>
-  <br>
 </div>
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/pipheroapp/downloads?label=Latest%20Release)
+![GitHub All Releases](https://img.shields.io/github/downloads/pipheroapp/downloads/total?label=Total%20Downloads)
 
 ### Download
 
