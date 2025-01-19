@@ -14,7 +14,6 @@
 
 ### Download
 
-- [Latest](https://piphero.app/download)
 - [Releases](https://github.com/pipheroapp/downloads/releases)
 
 ### Install via Homebrew
