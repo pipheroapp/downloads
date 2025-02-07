@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://piphero.app/icon.png" width="200" height="200" />
+  <img src="https://github.com/pipheroapp.png" width="200" height="200" />
 	<h1>PiPHero</h1>
 	<p>
 		<b>Picture-in-picture all the things!</b>
